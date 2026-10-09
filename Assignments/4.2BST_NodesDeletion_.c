@@ -1,4 +1,6 @@
-
+/*Extend a Binary Search Tree program to support deletion.
+The program should create a BST, delete a user-specified node, correctly handle nodes with zero,
+one and two children, and display inorder traversal before and after deletion. Test the program separately for all three deletion cases. */
 #include<stdio.h>
 #include<stdlib.h>
 struct node
